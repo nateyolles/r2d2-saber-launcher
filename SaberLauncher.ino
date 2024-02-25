@@ -4,7 +4,7 @@
  * This code is for the Warp Core Saber Launcher designed by Warpcell on the
  * Astromech forums.
  *
- * By Nate Yolles: https://www.github.com/nateyolles/r2-d2-saber-launcher
+ * By Nate Yolles: https://github.com/nateyolles/r2d2-saber-launcher
  * 
  * See: Warp Core Base Plate: https://astromech.net/forums/showthread.php?40578-Warp-Core-Base-Plate-v2-0-BC-Approved-Continuous-250-(Dec-2020)-Open
  * See: Saber Launcher details: https://astromech.net/forums/showthread.php?40598-Warp-Core-Dome-System-FAQ
